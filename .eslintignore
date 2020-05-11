@@ -1,0 +1,8 @@
+dist
+coverage
+docs
+__tests__
+*.js 
+!homework.js
+.*
+*.config.*
